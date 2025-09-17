@@ -1,6 +1,6 @@
 # 📊 Blinkit Sales Dashboard – Power BI Project  
 
-![Blinkit Dashboard](./Blinkit%20Dashboard%20Screenshot.png)
+
 
 ## 📌 Project Overview  
 This project analyzes Blinkit’s sales data to uncover insights about total sales, average sales, outlet performance, and customer preferences.  
