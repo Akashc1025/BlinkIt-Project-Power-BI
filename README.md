@@ -29,8 +29,9 @@ The dashboard helps in understanding key metrics and making data-driven decision
 
 ---
 
-## 🛠️ Tools Used  
-- **Power BI** – Data cleaning, visualization, dashboard building  
+## 🛠️ Tools Used 
+- **SQL** - Data cleaning
+- **Power BI** – visualization, dashboard building  
 - **Excel/CSV** – Data source  
 
 ---
